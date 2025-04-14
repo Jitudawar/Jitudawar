@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jitendra Dawar</h1>
-<h3 align="center">A Passionate Full Stack Developer from [Your Location] 🇮🇳</h3>
+<h3 align="center">I'm Jitendra Dawar, a Full Stack Developer from Bhopal, India 🇮🇳. I love crafting high-quality websites using HTML, CSS, JavaScript, React, Firebase & 3D animations. I build cool stuff like Music Dashboards, Game Zone, Job Portals & more. Let's connect! 💼</h3>
 
 ---
 
-- 🔭 I’m currently working on **Search Engine**
-- 🌱 I’m currently learning **Next.js, TypeScript, AWS**
-- 👯 I’m looking to collaborate on **Open Source MERN Projects**
-- 🤝 I’m open to internships & freelance opportunities
-- 💬 Ask me about **JavaScript, React, Firebase, MongoDB, DSA,Python,PHP**
-- 📫 Reach me at: **dawarjitu94@gmail.com**
-- 🧑‍💻 All my projects: (https://jitendradawar.netlify.app/)
 
----
 
 ## 🛠️ Languages and Tools:
 
@@ -21,6 +13,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ### 🧩 Frontend:
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
@@ -75,12 +70,30 @@
   [🔗 Visit Store](https://your-ecommerce.vercel.app)
 
 ---
+## 🌐 Connect with Me
 
-## 📫 Let's Connect:
-[![LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BoZTv6YAdRs2ZO%2Bc%2B6TFoXA%3D%3D)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/yourusername)
-[![Portfolio](https://jitendradawar.netlify.app/)
+<p align="center" >
+  <a href="https://www.instagram.com/dawar_1432?igsh=ZjNydWNwamN0cjZw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BoZTv6YAdRs2ZO%2Bc%2B6TFoXA%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/917879842856" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/167ZJByGRE/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://jitendradawar.netlify.app/"_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jitudawar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
 
 ---
 
