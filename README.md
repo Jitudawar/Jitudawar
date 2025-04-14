@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning **Next.js, TypeScript, AWS**
 - 👯 I’m looking to collaborate on **Open Source MERN Projects**
 - 🤝 I’m open to internships & freelance opportunities
-- 💬 Ask me about **JavaScript, React, Firebase, MongoDB, DSA**
+- 💬 Ask me about **JavaScript, React, Firebase, MongoDB, DSA,Python,PHP**
 - 📫 Reach me at: **dawarjitu94@gmail.com**
-- 🧑‍💻 All my projects: ()
+- 🧑‍💻 All my projects: (https://jitendradawar.netlify.app/)
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## 📌 Featured Projects:
 - 🎵 **Music Dashboard** – Spotify-like dashboard with Firebase Auth, YouTube music embed, and 3D UI.  
-  [🔗 Live Demo](https://your-music-dashboard.vercel.app)
+  [🔗 Live Demo](https://dawarmusic.netlify.app/)
 
 - ⚡ **Credit Card Detector** – Luhn validator + Firebase OCR card reader with 3D animation  
   [🔗 Check Now](https://your-card-app.vercel.app)
@@ -77,11 +77,11 @@
 ---
 
 ## 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BoZTv6YAdRs2ZO%2Bc%2B6TFoXA%3D%3D)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.vercel.app)
+[![Portfolio](https://jitendradawar.netlify.app/)
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-github-username)
+⭐️ From Jitendra Dawar(https://jitendradawar.netlify.app/)
