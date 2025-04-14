@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jitendra Dawar</h1>
-<h3 align="center">I'm Jitendra Dawar, a Full Stack Developer from Bhopal, India 🇮🇳. I love crafting high-quality websites using HTML, CSS, JavaScript, React, Firebase & 3D animations. I build cool stuff like Music Dashboards, Game Zone, Job Portals & more. Let's connect! 💼</h3>
+<h1 align="center">Hi 👋  I'm Jitendra Dawar</h1>
+
+
+## 👨‍💻 About Me
+
+Hi, I'm **Jitendra Dawar** – a passionate and creative **Full Stack Web Developer** from **Bhopal, M.P. (India)** 🇮🇳  
+I specialize in building modern, scalable, and user-friendly web applications using the latest technologies.
+
+💼 I bring together design and development to craft engaging, animated, and interactive user experiences.  
+🧠 I also love exploring AI tools, automation, and building real-world solutions that make life easier.
+
+I believe in writing clean, efficient, and optimized code — and I'm always hungry to learn new things.  
+Let’s collaborate and build something awesome together! 🚀
 
 ---
-
 
 
 ## 🛠️ Languages and Tools:
@@ -42,6 +52,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+
 ### ☁️ Deployment & DevOps:
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
@@ -49,7 +60,13 @@
 
 
 ---
+🧠 DSA Practice:
 
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+![GFG](https://img.shields.io/badge/GeeksforGeeks-14B964?style=flat&logo=geeksforgeeks&logoColor=white)
+![DSA with Java](https://img.shields.io/badge/DSA%20with%20Java-%E2%9C%94%EF%B8%8F-success?style=flat&logo=java&logoColor=white&color=red)
+
+---
 ## 🚀 Projects
 
 | Project Name | Description | Link |
@@ -93,5 +110,5 @@
 
 
 ---
+🔥 Building powerful web apps & AI tools that make life easier — from Bhopal to the world! 🌍
 
-⭐️ From Jitendra Dawar(https://jitendradawar.netlify.app/)
