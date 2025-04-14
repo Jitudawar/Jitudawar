@@ -50,15 +50,21 @@
 
 ---
 
-## 📌 Featured Projects:
-- 🎵 **Music Dashboard** – Spotify-like dashboard with Firebase Auth, YouTube music embed, and 3D UI.  
-  [🔗 Live Demo](https://dawarmusic.netlify.app/)
+## 🚀 Projects
 
-- ⚡ **Credit Card Detector** – Luhn validator + Firebase OCR card reader with 3D animation  
-  [🔗 Check Now](https://your-card-app.vercel.app)
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| 🎮 **Game Zone** | High-quality gaming portal with animations and modern UI. Built using HTML, CSS, JS | [View Project](https://dawargame.netlify.app/) |
+| 🤖 **AI Assistant** | Personal AI assistant using JavaScript + AI API integration for answering queries smartly | [View Project](https://dawarrobot.netlify.app/) |
+| 💼 **Job Portal** | Full-featured job search platform with login, apply, and admin dashboard features | [View Project](https://dawarjob.netlify.app/) |
+| 🎵 **Music Dashboard** | Spotify-style music app with Firebase Auth & YouTube integration | [View Project](https://dawarmusic.netlify.app/) |
+| 📱 **PhonePe Clone** | UPI & recharge dashboard with animations & Firebase backend | [View Project](https://dawarmusic.netlify.app/) |
+| 👥 **Facebook Clone** | Public post creation, Firebase Storage, comments & likes | [View Project](https://dawarmusic.netlify.app/) |
+| 🛒 **E-Commerce Website** | Fully functional shopping site with cart, filters, checkout & responsive design | [View Project](https://yourecommerce.vercel.app) |
+| 🧮 **Converter Tools** | All-in-one unit converter app (currency, temp, length, etc.) with smooth UI | [View Project](https://dawarpdf.netlify.app/) |
+| 💬 **Chat App** | Real-time chat app using Firebase with user auth and stylish UI | [View Project](https://dawarmusic.netlify.app/) |
 
-- 🛒 **E-Commerce Web App** – Full cart, payment, login system with animation  
-  [🔗 Visit Store]()
+
 
 ---
 ## 🌐 Connect with Me
