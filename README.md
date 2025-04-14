@@ -47,15 +47,6 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
@@ -67,7 +58,7 @@
   [🔗 Check Now](https://your-card-app.vercel.app)
 
 - 🛒 **E-Commerce Web App** – Full cart, payment, login system with animation  
-  [🔗 Visit Store](https://your-ecommerce.vercel.app)
+  [🔗 Visit Store]()
 
 ---
 ## 🌐 Connect with Me
