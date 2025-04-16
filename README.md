@@ -90,7 +90,7 @@ Let’s collaborate and build something awesome together! 🚀
   <a href="https://www.instagram.com/dawar_1432?igsh=ZjNydWNwamN0cjZw" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/jitendra-dawar-42aab6358" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYlKS5cUrSNCoswmKXudl9g%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/917879842856" target="_blank">
