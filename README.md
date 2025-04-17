@@ -76,7 +76,7 @@ Let’s collaborate and build something awesome together! 🚀
 | 💼 **Job Portal** | Full-featured job search platform with login, apply, and admin dashboard features | [View Project](https://dawarjob.netlify.app/) |
 | 🎵 **Music Dashboard** | Spotify-style music app with Firebase Auth & YouTube integration | [View Project](https://dawarmusic.netlify.app/) |
 | 📱 **PhonePe Clone** | UPI & recharge dashboard with animations & Firebase backend | [View Project](https://dawarmusic.netlify.app/) |
-| 👥 **Facebook Clone** | Public post creation, Firebase Storage, comments & likes | [View Project](https://dawarmusic.netlify.app/) |
+| 👥 **Facebook Clone** | Public post creation, Firebase Storage, comments & likes | [View Project](https://dawarbook.netlify.app/) |
 | 🛒 **E-Commerce Website** | Fully functional shopping site with cart, filters, checkout & responsive design | [View Project](https://dawarecom.netlify.app/) |
 | 🧮 **Converter Tools** | All-in-one unit converter app (currency, temp, length, etc.) with smooth UI | [View Project](https://dawarpdf.netlify.app/) |
 | 💬 **Chat App** | Real-time chat app using Firebase with user auth and stylish UI | [View Project](https://dawarmusic.netlify.app/) |
