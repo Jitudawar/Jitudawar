@@ -2,15 +2,17 @@
 
 
 ## 👨‍💻 About Me
+ <p align="center">
+     <img src="https://static.vecteezy.com/system/resources/previews/003/574/068/non_2x/businessman-character-wearing-business-outfit-and-setting-on-desk-with-laptop-and-lamp-waving-vector.jpg" width="230" />
+ </p>
 
-Hi, I'm **Jitendra Dawar** – a passionate and creative **Full Stack Web Developer** from **Bhopal, M.P. (India)** 🇮🇳  
+Hi, I'm **Jitendra Dawar** – a passionate and creative **Full Stack Web Developer** from **Bhopal, M.P. (India)** 🇮🇳 
 I specialize in building modern, scalable, and user-friendly web applications using the latest technologies.
 
 💼 I bring together design and development to craft engaging, animated, and interactive user experiences.  
 🧠 I also love exploring AI tools, automation, and building real-world solutions that make life easier.
 
-I believe in writing clean, efficient, and optimized code — and I'm always hungry to learn new things.  
-Let’s collaborate and build something awesome together! 🚀
+I believe in writing clean, efficient, and optimized code — and I'm always hungry to learn new things.  Let’s collaborate and build something awesome together! 🚀
 
 ---
 
