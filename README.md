@@ -2,6 +2,10 @@
 
 
 ## 👨‍💻 About Me
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4169E1&center=true&vCenter=true&width=700&height=40&lines=Hello!+💕+I+am+Jitendra+Dawar......🏃‍♀️‍➡️.....+🧑‍💼!;I+am+Full-stack+Developer.......🧑‍💻!;I+am+Software+Developer.........🧑‍💻!;I+am+App+Developer........🧑🏼‍💻!;I+am+Designer.........📝🧑‍💻!;I+Love💘+Coding+.......🧑🏻‍💻!">
+</h3>
+
  <p align="center">
      <img src="https://static.vecteezy.com/system/resources/previews/003/574/068/non_2x/businessman-character-wearing-business-outfit-and-setting-on-desk-with-laptop-and-lamp-waving-vector.jpg" width="230" />
  </p>
