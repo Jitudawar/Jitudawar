@@ -6,9 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4169E1&center=true&vCenter=true&width=700&height=40&lines=Hello!+💕+I'm+Jitendra+Dawar......🏃🏼‍♂️‍➡️.....+🧑‍💼!;I'm+Full-stack+Developer.......🧑‍💻!;I'm+Software+Developer.........🧑‍💻!;I'm+App+Developer........🧑🏼‍💻!;I'm+Designer.........📝🧑‍💻!;I+Love💘+Coding+.......🧑🏻‍💻!">
 </h3>
 
+
  <p align="center">
-     <img src="https://static.vecteezy.com/system/resources/previews/003/574/068/non_2x/businessman-character-wearing-business-outfit-and-setting-on-desk-with-laptop-and-lamp-waving-vector.jpg" width="230" />
+     <img src="https://technostupid.com/frontend/images/95116-coder.gif" width="300" />
  </p>
+
 
 Hi, I'm **Jitendra Dawar** – a passionate and creative **Full Stack Web Developer** from **Bhopal, M.P. (India)** 🇮🇳 
 I specialize in building modern, scalable, and user-friendly web applications using the latest technologies.
@@ -87,7 +89,9 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
 | 🧮 **Converter Tools** | All-in-one unit converter app (currency, temp, length, etc.) with smooth UI | [View Project](https://dawarpdf.netlify.app/) |
 | 💬 **Chat App** | Real-time chat app using Firebase with user auth and stylish UI | [View Project](https://dawarmusic.netlify.app/) |
 
-
+ <p align="center">
+     <img src="https://static.vecteezy.com/system/resources/previews/003/574/068/non_2x/businessman-character-wearing-business-outfit-and-setting-on-desk-with-laptop-and-lamp-waving-vector.jpg" width="230" />
+ </p>
 
 ---
 ## 🌐 Connect with Me
