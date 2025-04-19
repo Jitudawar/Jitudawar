@@ -122,7 +122,13 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+ <a href="https://twitter.com/jitudawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="royalkarann" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1De3H0nOSyOQZRRTMdPyrg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+ <a href="https://fb.com/royalkarannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jitendradawar" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/dawar_1432?igsh=ZjNydWNwamN0cjZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendra" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/c/codewithstranger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jitendra" height="30" width="40" /></a>
+ </p>
 
 
 ---
