@@ -102,33 +102,19 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
 ---
 ## 🌐 Connect with Me
 
-<p align="center" >
-  <a href="https://www.instagram.com/dawar_1432?igsh=ZjNydWNwamN0cjZw" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYlKS5cUrSNCoswmKXudl9g%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/917879842856" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/167ZJByGRE/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://jitendradawar.netlify.app/"_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jitudawar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 <p align="center">
- <a href="https://twitter.com/jitudawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="royalkarann" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1De3H0nOSyOQZRRTMdPyrg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
- <a href="https://fb.com/royalkarannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jitendradawar" height="30" width="40" /></a>
- <a href="https://www.instagram.com/dawar_1432?igsh=ZjNydWNwamN0cjZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendra" height="30" width="40" /></a>
- <a href="https://www.youtube.com/c/codewithstranger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jitendra" height="30" width="40" /></a>
- </p>
+  
+  <a href="https://wa.me/917879842856" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="60" width="110" /></a>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1De3H0nOSyOQZRRTMdPyrg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitudawar" height="60" width="110" /></a>
+ <a href="https://www.facebook.com/share/167ZJByGRE/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jitendradawar" height="60" width="110" /></a>
+ <a href="https://www.instagram.com/dawar_1432?igsh=ZjNydWNwamN0cjZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendra" height="60" width="110" /></a>
+ <a href="https://github.com/jitudawar" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jitudawar" height="60" width="110" /></a>
+<a href="https://jitendradawar.netlify.app/" target="blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio" height="60" width="100" />
+</a>
+</p>
 
 
 ---
