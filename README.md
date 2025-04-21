@@ -88,6 +88,8 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
 | 🛒 **E-Commerce Website** | Fully functional shopping site with cart, filters, checkout & responsive design | [View Project](https://dawarecom.netlify.app/) |
 | 🧮 **Converter Tools** | All-in-one unit converter app (currency, temp, length, etc.) with smooth UI | [View Project](https://dawarpdf.netlify.app/) |
 | 💬 **Chat App** | Real-time chat app using Firebase with user auth and stylish UI | [View Project](https://dawarmusic.netlify.app/) |
+| 📲 **Instagram Clone** | Public post creation, Firebase Storage, follow,Reels,comments & likes | [View Project](https://dawarinsta.netlify.app/) |
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=G1496D&center=true&vCenter=true&width=700&height=40&lines=Hello!👋🏼+Do+you+want+to+see+my+projects+......+?;How+did+you+like+my+GitHub+profile+......+?">
